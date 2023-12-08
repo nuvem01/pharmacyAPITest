@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UlNvsGAY88EaJ5CG0AdOqsl9klTMng44GtEFg7YpqLg=",
+  "Source": "Nuvem.PharmacyManagement.PharmacyApi",
+  "BasePath": "_content/Nuvem.PharmacyManagement.PharmacyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
